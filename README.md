@@ -46,3 +46,40 @@
 ### Kuvera
 
 - cordova
+
+### Cars24
+
+- reactnative
+- clevertap
+- instabug
+- mediatek
+- mmi
+- truecaller
+
+### Bharatpe
+
+- android kotlin
+- clevertap
+- fcm
+- thinkanalytics
+- google sigin
+
+### Navi
+
+- android kotlin
+- truecaller
+- freshchat
+- appsflyer
+- protobuf
+- lottie
+- volley
+- mixpanel
+- razorpay
+- singular
+- truecaller
+
+### Swiggy
+
+- android
+- protobuf
+- kafka
