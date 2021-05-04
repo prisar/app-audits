@@ -83,3 +83,8 @@
 - android
 - protobuf
 - kafka
+
+### acko
+
+- flutter, main app
+- android, health module
