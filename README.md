@@ -88,3 +88,46 @@
 
 - flutter, main app
 - android, health module
+
+### fampay
+
+- android
+- freshchat
+- cashfree
+- mixpanel
+- razorpay
+- webengage
+- segment
+- appsflyer
+
+### dukaan
+
+- android
+- clevertap
+- fb login
+- firebase - analytics, auth, crashlytics, dynamiclinks, datatransport, iid, installations, messaging, remoteconfig, perf
+- truecaller
+
+### idfc first bank
+
+- android
+- karza, aadhaar kyc
+- salesforce
+- firebase - messaging, iid
+- exotel
+- fb login
+
+### shuttl
+
+- android kotlin
+- clevertap
+- razorpay
+- amazonpay
+- mobikwik
+- truecaller
+- appsflyer
+- fb login
+
+### Wazirx
+
+- android
