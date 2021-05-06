@@ -131,3 +131,71 @@
 ### Wazirx
 
 - android
+
+Kisan.net
+
+- android - kotlin
+
+zomato
+
+- android
+- appsflyer
+- clevertap
+- amazonpay
+- visa
+
+vested
+
+- react native
+
+upstock
+
+- android - kotlin
+- firebase
+- clevertap
+- mixpanel
+- pubnub
+- freshchat
+- fasterxml
+- applinks - fb
+
+ticker tape
+
+- android - kotlin
+- razorpay
+- clevertap
+- xiaomi - push
+
+Super Daily
+
+- cordova
+
+Ola
+
+- android
+- juspay
+- Apsalar, singular
+- braintreepayments
+- xiaomi - push
+- visa
+- stripe
+- sendbird
+- phonepe
+- payu
+- paypal
+- jiowallet
+
+ok credit
+
+- android
+- appsflyer
+- clevertap
+- amazonaws
+- mixpanel
+- zendesk
+- visa
+- truecaller
+
+myntra 
+
+- react native + android native
