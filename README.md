@@ -214,3 +214,13 @@ mobikwik
 - lending, icici
 - kyc, digilocker
 - cabs, ola
+
+
+Licious
+
+- amazon pay
+- clevertap
+- freshchat
+- paytm
+- razorpay
+- simpl
