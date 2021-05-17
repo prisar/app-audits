@@ -224,3 +224,11 @@ Licious
 - paytm
 - razorpay
 - simpl
+
+
+**Coinswitch**
+
+- reactnaitve
+- MoEngage (marketing)
+- MI PUSH
+- singular
