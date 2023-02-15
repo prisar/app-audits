@@ -1,4 +1,4 @@
-## Unofficial list of tech stacks used by startups & apps in India
+## Unofficial list of tech stacks used by startups & apps i have checked
 
 ### Bounce
 
@@ -232,3 +232,11 @@ Licious
 - MoEngage (marketing)
 - MI PUSH
 - singular
+
+**SBI kyc apk**
+this app is very simple. it is sent to users through sms which has link to download the apk. they ask for sms read permission probably to dispatch 
+otp and other information to a server url. using that. information scams are done with sbi account.
+
+  - cordova
+  - vooley to send data to server url
+  - assets to mock bank logos
