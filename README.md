@@ -9,6 +9,7 @@
 | Groww       	| reactnative                                                                                                              	|
 | Finshots    	| reactnative                                                                                                              	|
 | Kuvera      	| cordova                                                                                                                  	|
+| Cars24      	| reactnative, clevertap, instabug, mediatek, mmi,truecaller                                                                 |
 
 ### Bounce
 
